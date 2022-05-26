@@ -1,0 +1,14 @@
+img{
+    width: 250;
+    height: 250
+}
+img{width: 250;
+    height: 250;
+    border: 4px dashed black;
+}
+p{
+    /* width: 50%; */
+    float: left;
+    border: solid red;
+    margin-left: 100;
+}
